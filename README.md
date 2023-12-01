@@ -1,4 +1,4 @@
-My name is Rodrigo and I'm a physicist @UFSM.
+My name is Rodrigo and I'm a Physics PhD canditate @UFSM.
 
 - 🔍 I’m interested in  High Energy Physics
 - 🌱 I’m currently learning Data Science and Machine Learning.
